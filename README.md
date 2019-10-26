@@ -20,7 +20,7 @@ You can beat an number arrange puzzle game by shuffling the numbers into the rig
 ## Pro users
 1. Clone or download zip our project via github</br >
 2. Open a terminal/cmd window in "src" folder</br >
-3. Compile the "main.c" using an installed compiler which suportts C++</br >
+3. Compile the "main.c" using an installed compiler which supports C language</br >
 4. At the same folder, run the compiled file using "./name-of-compiled-file.exe" in your terminal/cmd
 
 # In-game instructions
